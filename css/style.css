@@ -344,6 +344,7 @@ h6 {
 
 .body-lover .button:not(:last-child) {
   margin-right: 1.875rem;
+  margin-bottom: 1.875rem;
 }
 
 .body-lover__footer {
